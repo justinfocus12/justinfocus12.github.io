@@ -1,3 +1,5 @@
 name: Justin Finkel
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
