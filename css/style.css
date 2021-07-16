@@ -53,5 +53,19 @@ hr.navsep {
     border-color: #000000;
 }
 
+.ListWithImages {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+    float: left;
+}
 
+.ListWithImages p {
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
 
+.ListWithImages img {
+    float: left;
+}
