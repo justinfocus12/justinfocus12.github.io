@@ -42,11 +42,11 @@
 
 hr.navsep {
     border-top: 1px solid black;
-    width: 60%;
+    width: 100%;
 }
 
 .TextWrap {
-    float: left;
+    float: right;
     margin: 10px;
     border-style: solid;
     border-width: 1px;
