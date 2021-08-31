@@ -40,6 +40,10 @@
     background-color: #C0C0C0;
 }
 
+.visibleURL::after {
+    content: attr(href)" ";
+}
+
 hr.navsep {
     border-top: 1px solid black;
     width: 100%;
